@@ -1,0 +1,7 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adds a 10px gap between flex items */
+    border: 1px solid red;      /* Combines border-width, border-style, and border-color */
+}
+
